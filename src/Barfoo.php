@@ -2,8 +2,8 @@
 
 namespace App;
 
-class Foobar {
-    public function doThing(int $foo): bool
+class Barfoo {
+    public static function doThing(int $foo): bool
     {
         $bar = $foo + 1;
 
